@@ -1,2 +1,1 @@
-# [https://www.hackerrank.com/domains/algorithms](HackerRank DataStructure and Algorithm)
-
+# [HackerRank DataStructure and Algorithm](https://www.hackerrank.com/domains/algorithms)
